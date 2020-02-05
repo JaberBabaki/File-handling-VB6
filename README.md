@@ -1,5 +1,5 @@
 # File-handling-VB6
-project work with files in VB6
+> Fall 2011
 
 ## File in VB6
 There are generally two types of files in VB6:
